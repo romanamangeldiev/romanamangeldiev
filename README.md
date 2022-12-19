@@ -1,4 +1,4 @@
-#  Roman Amangeldiev
+#  Hi, I am Roman Amangeldiev
 **`Mobile developer / Graphic Designer / Writer`**
 - 🔭 &ensp;I’m currently working on my project!
 - 🌱 &ensp;I’m currently learning Flutter ❤️
